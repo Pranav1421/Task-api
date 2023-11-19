@@ -1,0 +1,19 @@
+{
+  "name": "prisma3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "pranav",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.4.2",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.2",
+    "fs": "^0.0.1-security",
+    "nodemon": "^3.0.1",
+    "prisma": "^5.4.2"
+  }
+}
